@@ -1,0 +1,22 @@
+.list {
+  max-width: 480px;
+  margin: 10px auto;
+  list-style: none;
+}
+
+.item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 10px 0px auto;
+}
+
+.button {
+  font-weight: 500;
+  padding: 6px 6px;
+  cursor: pointer;
+  background-color: #808aff;
+  border: 0px;
+  border-radius: 3px;
+  box-shadow: 0px 3px 3px rgba(0, 0, 0, 0.25);
+}
